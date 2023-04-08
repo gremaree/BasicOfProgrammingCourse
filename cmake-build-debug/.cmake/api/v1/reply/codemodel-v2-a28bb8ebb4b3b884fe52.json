@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lab18",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lab18::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab18-Debug-bc9f6b885ba4509f2f2b.json",
+					"name" : "lab18",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/\u041c\u0430\u0440\u0438\u043d\u0430/Desktop/\u0443\u0447.\u043c\u0430\u0442/\u041e\u041f/lab18/cmake-build-debug",
+		"source" : "C:/Users/\u041c\u0430\u0440\u0438\u043d\u0430/Desktop/\u0443\u0447.\u043c\u0430\u0442/\u041e\u041f/lab18"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,3 @@
+C:/Users/Марина/Desktop/уч.мат/ОП/lab18/cmake-build-debug/CMakeFiles/lab18.dir
+C:/Users/Марина/Desktop/уч.мат/ОП/lab18/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Марина/Desktop/уч.мат/ОП/lab18/cmake-build-debug/CMakeFiles/rebuild_cache.dir
