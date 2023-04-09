@@ -1,6 +1,7 @@
 #include <stdio.h>
+#include "libs/data_structures/vector/vector.h"
 
-int main() {
-    printf("Hello, World!\n");
+int main(){
+
     return 0;
 }
