@@ -22,7 +22,7 @@ Vector createVector(size_t n);
 
 //возвращает структуру-дескриптор вектор,
 //полученную из массива a размера size
-Vector getVectorFromArray(const int* const a, int size);
+Vector getVectorFromArray(const int *const a, int size);
 
 //выводит вектор v
 void outputVector(Vector v);
